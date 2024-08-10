@@ -1,0 +1,44 @@
+{
+    "stable": {
+        "release": {
+            "ver": "1.0.0",
+            "build": "7"
+        },
+        "beta": {
+            "ver": "1.0.0",
+            "build": "7"
+        },
+        "alpha": {
+            "ver": "1.0.0",
+            "build": "7"
+        }
+    },
+    "instable": {
+        "release": {
+            "ver": "1.0.0",
+            "build": "7"
+        },
+        "beta": {
+            "ver": "1.0.0",
+            "build": "7"
+        },
+        "alpha": {
+            "ver": "1.0.0",
+            "build": "7"
+        }
+    },
+    "dev": {
+        "release": {
+            "ver": "1.0.0",
+            "build": "7"
+        },
+        "beta": {
+            "ver": "1.0.0",
+            "build": "7"
+        },
+        "alpha": {
+            "ver": "1.0.0",
+            "build": "7"
+        }
+    }
+}
